@@ -1,0 +1,916 @@
+[
+   {
+        "numero_atomico" : 1,
+        "simbolo" : "H",
+        "nombre" : "Hidrógeno",
+        "valencia" : ["+1","-1"],
+        "masa_atomica" : 1.0,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 2,
+        "simbolo" : "He",
+        "nombre" : "Helio",
+        "valencia" : [],
+        "masa_atomica" : 4.0,
+        "categoria" : ["gnobles"]
+    },
+    {
+        "numero_atomico" : 3,
+        "simbolo" : "Li",
+        "nombre" : "Litio",
+        "valencia" : ["+1"],
+        "masa_atomica" : 6.9,
+        "categoria" : ["malcalinos"]
+    },
+    {
+        "numero_atomico" : 4,
+        "simbolo" : "Be",
+        "nombre" : "Berilio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 9.0,
+        "categoria" : ["malcalinoterreos"]
+    },
+    {
+        "numero_atomico" : 5,
+        "simbolo" : "B",
+        "nombre" : "Boro",
+        "valencia" : ["+3"],
+        "masa_atomica" : 10.8,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 6,
+        "simbolo" : "C",
+        "nombre" : "Carbono",
+        "valencia" : ["+4","-4","+2"],
+        "masa_atomica" : 12.0,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 7,
+        "simbolo" : "N",
+        "nombre" : "Nitrógeno",
+        "valencia" : [],
+        "masa_atomica" : 14.0,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 8,
+        "simbolo" : "O",
+        "nombre" : "Oxígeno",
+        "valencia" : ["-2"],
+        "masa_atomica" : 16.0,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 9,
+        "simbolo" : "F",
+        "nombre" : "Flúor",
+        "valencia" : ["-1"],
+        "masa_atomica" : 19.0,
+        "categoria" : ["halogenos"]
+    },
+    {
+        "numero_atomico" : 10,
+        "simbolo" : "Ne",
+        "nombre" : "Neón",
+        "valencia" : [],
+        "masa_atomica" : 20.1,
+        "categoria" : ["gnobles"]
+    },
+    {
+        "numero_atomico" : 11,
+        "simbolo" : "Na",
+        "nombre" : "Sodio",
+        "valencia" : ["+1"],
+        "masa_atomica" : 22.9,
+        "categoria" : ["malcalinos"]
+    },
+    {
+        "numero_atomico" : 12,
+        "simbolo" : "Mg",
+        "nombre" : "Magnesio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 24.3,
+        "categoria" : ["malcalinoterreos"]
+    },
+    {
+        "numero_atomico" : 13,
+        "simbolo" : "Al",
+        "nombre" : "Aluminio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 27.0,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 14,
+        "simbolo" : "Si",
+        "nombre" : "Silicio",
+        "valencia" : ["+4","+2"],
+        "masa_atomica" : 28.0,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 15,
+        "simbolo" : "P",
+        "nombre" : "Fósforo",
+        "valencia" : ["+5","+3","-3","+4"],
+        "masa_atomica" : 31.0 ,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 16,
+        "simbolo" : "S",
+        "nombre" : "Azúfre",
+        "valencia" : ["+6","+4","+2","-2"],
+        "masa_atomica" : 32.0,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 17,
+        "simbolo" : "Cl",
+        "nombre" : "Cloro",
+        "valencia" : ["+1","-1","+3","+5","+7"],
+        "masa_atomica" : 35.5,
+        "categoria" : ["halogenos"]
+    },
+    {
+        "numero_atomico" : 18,
+        "simbolo" : "Ar",
+        "nombre" : "Argón",
+        "valencia" : [],
+        "masa_atomica" : 39.9,
+        "categoria" : ["gnobles"]
+    },
+    {
+        "numero_atomico" : 19,
+        "simbolo" : "K",
+        "nombre" : "Potasio",
+        "valencia" : ["+1"],
+        "masa_atomica" : 39.1,
+        "categoria" : ["malcalinos"]
+    },
+    {
+        "numero_atomico" : 20,
+        "simbolo" : "Ca",
+        "nombre" : "Calcio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 40.0,
+        "categoria" : ["malcalinoterreos"]
+    },
+    {
+        "numero_atomico" : 21,
+        "simbolo" : "Sc",
+        "nombre" : "Escandio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 44.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 22,
+        "simbolo" : "Ti",
+        "nombre" : "Titanio",
+        "valencia" : ["+2","+3","+4"],
+        "masa_atomica" : 47.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 23,
+        "simbolo" : "V",
+        "nombre" : "Vanadio",
+        "valencia" : ["+5","+4","+3","+2"],
+        "masa_atomica" : 50.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 24,
+        "simbolo" : "Cr",
+        "nombre" : "Cromo",
+        "valencia" : ["+2","+3","+4","+5","+6"],
+        "masa_atomica" : 52.0,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 25,
+        "simbolo" : "Mn",
+        "nombre" : "Manganeso",
+        "valencia" : ["+7","+6","-4","+3","+2"],
+        "masa_atomica" : 55.0,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 26,
+        "simbolo" : "Fe",
+        "nombre" : "Hierro",
+        "valencia" : ["+2","+3"],
+        "masa_atomica" : 55.8,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 27,
+        "simbolo" : "Co",
+        "nombre" : "Cobalto",
+        "valencia" : ["+2","+3"],
+        "masa_atomica" : 58.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 28,
+        "simbolo" : "Ni",
+        "nombre" : "Niquel",
+        "valencia" : ["+2","+3"],
+        "masa_atomica" : 58.7,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 29,
+        "simbolo" : "Cu",
+        "nombre" : "Cobre",
+        "valencia" : ["+2","+1"],
+        "masa_atomica" : 63.5,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 30,
+        "simbolo" : "Zn",
+        "nombre" : "Cinc",
+        "valencia" : ["+2"],
+        "masa_atomica" : 65.4,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 31,
+        "simbolo" : "Ga",
+        "nombre" : "Galio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 69.7,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 32,
+        "simbolo" : "Ge",
+        "nombre" : "Germanio",
+        "valencia" : ["+4"],
+        "masa_atomica" : 72.6,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 33,
+        "simbolo" : "As",
+        "nombre" : "Arsénico",
+        "valencia" : ["+5","+3","-3"],
+        "masa_atomica" : 74.9,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 34,
+        "simbolo" : "Se",
+        "nombre" : "Selenio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 78.9,
+        "categoria" : ["nmetales"]
+    },
+    {
+        "numero_atomico" : 35,
+        "simbolo" : "Br",
+        "nombre" : "Bromo",
+        "valencia" : ["+1","-1","+3","+5","+7"],
+        "masa_atomica" : 79.9,
+        "categoria" : ["halogenos"]
+    },
+    {
+        "numero_atomico" : 36,
+        "simbolo" : "Kr",
+        "nombre" : "Criptón",
+        "valencia" : [],
+        "masa_atomica" : 83.6,
+        "categoria" : ["gnobles"]
+    },
+    {
+        "numero_atomico" : 37,
+        "simbolo" : "Rb",
+        "nombre" : "Rubidio",
+        "valencia" : ["+1"],
+        "masa_atomica" : 85.5,
+        "categoria" : ["malcalinos"]
+    },
+    {
+        "numero_atomico" : 38,
+        "simbolo" : "Sr",
+        "nombre" : "Estroncio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 87.6,
+        "categoria" : ["malcalinoterreos"]
+    },
+    {
+        "numero_atomico" : 39,
+        "simbolo" : "Y",
+        "nombre" : "Itrio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 88.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 40,
+        "simbolo" : "Zr",
+        "nombre" : "Circonio",
+        "valencia" : ["+2","+3","+4"],
+        "masa_atomica" : 91.2,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 41,
+        "simbolo" : "Nb",
+        "nombre" : "Niobio",
+        "valencia" : ["+2","+4","+5","+3"],
+        "masa_atomica" : 92.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 42,
+        "simbolo" : "Mo",
+        "nombre" : "Molibdeno",
+        "valencia" : ["+6","+5","+4","+3","+2"],
+        "masa_atomica" : 95.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 43,
+        "simbolo" : "Tc",
+        "nombre" : "Tecnecio",
+        "valencia" : ["+7"],
+        "masa_atomica" : 99,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 44,
+        "simbolo" : "Ru",
+        "nombre" : "Rutenio",
+        "valencia" : ["+2","+3","+4","+6","+8"],
+        "masa_atomica" : 101.1,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 45,
+        "simbolo" : "Rh",
+        "nombre" : "Rodio",
+        "valencia" : ["+2","+3","+4","+6"],
+        "masa_atomica" : 102.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 46,
+        "simbolo" : "Pd",
+        "nombre" : "Paladio",
+        "valencia" : ["+2","+4"],
+        "masa_atomica" : 106.4,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 47,
+        "simbolo" : "Ag",
+        "nombre" : "Plata",
+        "valencia" : ["+1"],
+        "masa_atomica" : 107.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 48,
+        "simbolo" : "Cd",
+        "nombre" : "Cadmio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 112.4,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 49,
+        "simbolo" : "In",
+        "nombre" : "Indio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 114.8,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 50,
+        "simbolo" : "Sn",
+        "nombre" : "Estaño",
+        "valencia" : ["+4","+2"],
+        "masa_atomica" : 118.7,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 51,
+        "simbolo" : "Sb",
+        "nombre" : "Antimonio",
+        "valencia" : ["+5","+3","-3"],
+        "masa_atomica" : 121.7,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 52,
+        "simbolo" : "Te",
+        "nombre" : "Teluro",
+        "valencia" : ["+2"],
+        "masa_atomica" : 127.6,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 53,
+        "simbolo" : "I",
+        "nombre" : "Yodo",
+        "valencia" : ["+1","-1","+3","+5","+7"],
+        "masa_atomica" : 126.9,
+        "categoria" : ["halogenos"]
+    },
+    {
+        "numero_atomico" : 54,
+        "simbolo" : "Xe",
+        "nombre" : "Xenón",
+        "valencia" : [],
+        "masa_atomica" : 131.3,
+        "categoria" : ["gnobles"]
+    },
+    {
+        "numero_atomico" : 55,
+        "simbolo" : "Cs",
+        "nombre" : "Cesio",
+        "valencia" : ["+1"],
+        "masa_atomica" : 132.9,
+        "categoria" : ["malcalinos"]
+    },
+    {
+        "numero_atomico" : 56,
+        "simbolo" : "Ba",
+        "nombre" : "Bario",
+        "valencia" : ["+2"],
+        "masa_atomica" : 137.3,
+        "categoria" : ["malcalinoterreos"]
+    },
+    {
+        "numero_atomico" : 57,
+        "simbolo" : "La",
+        "nombre" : "Lantano",
+        "valencia" : ["+3"],
+        "masa_atomica" : 138.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 58,
+        "simbolo" : "Ce",
+        "nombre" : "Cerio",
+        "valencia" : ["+3","+4"],
+        "masa_atomica" : 140.1,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 59,
+        "simbolo" : "Pr",
+        "nombre" : "Praseodimio",
+        "valencia" : ["+3","+4"],
+        "masa_atomica" : 140.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 60,
+        "simbolo" : "Nd",
+        "nombre" : "Neodimio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 144.2,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 61,
+        "simbolo" : "Pm",
+        "nombre" : "Promecio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 147,
+        "categoria" : ["mtransicion","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 62,
+        "simbolo" : "Sm",
+        "nombre" : "Samario",
+        "valencia" : ["+3","+2"],
+        "masa_atomica" : 150.3,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 63,
+        "simbolo" : "Eu",
+        "nombre" : "Europio",
+        "valencia" : ["+3","+2"],
+        "masa_atomica" : 150.3,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 64,
+        "simbolo" : "Gd",
+        "nombre" : "Gadolinio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 157.2,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 65,
+        "simbolo" : "Tb",
+        "nombre" : "Terbio",
+        "valencia" : ["+3","+4"],
+        "masa_atomica" : 158.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 66,
+        "simbolo" : "Dy",
+        "nombre" : "Disprosio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 162.5,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 67,
+        "simbolo" : "Ho",
+        "nombre" : "Holmio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 164.9,
+        "categoria" : []
+    },
+    {
+        "numero_atomico" : 68,
+        "simbolo" : "Er",
+        "nombre" : "Erbio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 167.3
+    },
+    {
+        "numero_atomico" : 69,
+        "simbolo" : "Tm",
+        "nombre" : "Tulio",
+        "valencia" : ["+3","+2"],
+        "masa_atomica" : 168.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 70,
+        "simbolo" : "Yb",
+        "nombre" : "Iterbio",
+        "valencia" : ["+3","+2"],
+        "masa_atomica" : 173.0
+    },
+    {
+        "numero_atomico" : 71,
+        "simbolo" : "Lu",
+        "nombre" : "Lutecio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 174.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 72,
+        "simbolo" : "Hf",
+        "nombre" : "Hafnio",
+        "valencia" : ["+2","+3","+4"],
+        "masa_atomica" : 178.5
+    },
+    {
+        "numero_atomico" : 73,
+        "simbolo" : "Ta",
+        "nombre" : "Tantalio",
+        "valencia" : ["+2","+3","+4","+5"],
+        "masa_atomica" : 180.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 74,
+        "simbolo" : "W",
+        "nombre" : "Volframio",
+        "valencia" : ["+6","+5","+4","+3","+2"],
+        "masa_atomica" : 183.8
+    },
+    {
+        "numero_atomico" : 75,
+        "simbolo" : "Re",
+        "nombre" : "Renio",
+        "valencia" : ["+7","+6","+4","+2","+1"],
+        "masa_atomica" : 186.2
+    },
+    {
+        "numero_atomico" : 76,
+        "simbolo" : "Os",
+        "nombre" : "Osmio",
+        "valencia" : ["+2","+3","+4","+6","+8"],
+        "masa_atomica" : 190.2,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 77,
+        "simbolo" : "Ir",
+        "nombre" : "Iridio",
+        "valencia" : ["+2","+3","+4","+6"],
+        "masa_atomica" : 192.2,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 78,
+        "simbolo" : "Pt",
+        "nombre" : "Platino",
+        "valencia" : ["+2","+4"],
+        "masa_atomica" : 195.1,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 79,
+        "simbolo" : "Au",
+        "nombre" : "Oro",
+        "valencia" : ["+3","+1"],
+        "masa_atomica" : 196.9,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 80,
+        "simbolo" : "Hg",
+        "nombre" : "Mercurio",
+        "valencia" : ["+2","+1"],
+        "masa_atomica" : 200.5,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 81,
+        "simbolo" : "Ti",
+        "nombre" : "Talio",
+        "valencia" : ["+3","+1"],
+        "masa_atomica" : 204.3,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 82,
+        "simbolo" : "Pb",
+        "nombre" : "Plomo",
+        "valencia" : ["+4","+2"],
+        "masa_atomica" : 207.2,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 83,
+        "simbolo" : "Bi",
+        "nombre" : "Bismuto",
+        "valencia" : ["+3","+5"],
+        "masa_atomica" : 208.9,
+        "categoria" : ["ometales"]
+    },
+    {
+        "numero_atomico" : 84,
+        "simbolo" : "Po",
+        "nombre" : "Polonio",
+        "valencia" : ["+6"],
+        "masa_atomica" : 210,
+        "categoria" : ["metaloides"]
+    },
+    {
+        "numero_atomico" : 85,
+        "simbolo" : "At",
+        "nombre" : "Astato",
+        "valencia" : ["+1","-1","+3","+5","+7"],
+        "masa_atomica" : 210,
+        "categoria" : ["halogenos"]
+    },
+    {
+        "numero_atomico" : 86,
+        "simbolo" : "Rn",
+        "nombre" : "Radón",
+        "valencia" : [],
+        "masa_atomica" : 222,
+        "categoria" : ["gnobles","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 87,
+        "simbolo" : "Fr",
+        "nombre" : "Francio",
+        "valencia" : ["+1"],
+        "masa_atomica" : 223,
+        "categoria" : ["malcalinos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 88,
+        "simbolo" : "Ra",
+        "nombre" : "Radio",
+        "valencia" : ["+2"],
+        "masa_atomica" : 226.0,
+        "categoria" : ["malcalinoterreos","eradiactivos"]
+    },
+     {
+        "numero_atomico" : 89,
+        "simbolo" : "Ac",
+        "nombre" : "Actinio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 227.0,
+        "categoria" : ["mtransicion","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 90,
+        "simbolo" : "Th",
+        "nombre" : "Torio",
+        "valencia" : ["+4"],
+        "masa_atomica" : 232.0,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 91,
+        "simbolo" : "Pa",
+        "nombre" : "Protactinio",
+        "valencia" : ["+5","+4"],
+        "masa_atomica" : 231,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 92,
+        "simbolo" : "U",
+        "nombre" : "Uranio",
+        "valencia" : ["+6","+5","+4","+3"],
+        "masa_atomica" : 238.8
+    },
+    {
+        "numero_atomico" : 93,
+        "simbolo" : "Np",
+        "nombre" : "Neptunio",
+        "valencia" : ["+6","+5","+4","+3"],
+        "masa_atomica" : 237,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 94,
+        "simbolo" : "Pu",
+        "nombre" : "Plutonio",
+        "valencia" : ["+6","+5","+4","+3"],
+        "masa_atomica" : 242,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 95,
+        "simbolo" : "Am",
+        "nombre" : "Americio",
+        "valencia" : ["+6","+5","+4","+3"],
+        "masa_atomica" : 243,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 96,
+        "simbolo" : "Cm",
+        "nombre" : "Curio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 247,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 97,
+        "simbolo" : "Bk",
+        "nombre" : "Berkelio",
+        "valencia" : ["+4","+3"],
+        "masa_atomica" : 247,
+        "categoria" : []
+    },
+    {
+        "numero_atomico" : 98,
+        "simbolo" : "Cf",
+        "nombre" : "Californio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 251,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 99,
+        "simbolo" : "Es",
+        "nombre" : "Einstenio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 254,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 100,
+        "simbolo" : "Fm",
+        "nombre" : "Fermio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 253,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 101,
+        "simbolo" : "Md",
+        "nombre" : "Mendelevio",
+        "valencia" : ["+3","+2"],
+        "masa_atomica" : 256,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 102,
+        "simbolo" : "No",
+        "nombre" : "Nobelio",
+        "valencia" : ["+3","+2"],
+        "masa_atomica" : 254,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 103,
+        "simbolo" : "Lr",
+        "nombre" : "Laurencio",
+        "valencia" : ["+3"],
+        "masa_atomica" : 257,
+        "categoria" : ["mtransicion"]
+    },
+    {
+        "numero_atomico" : 104,
+        "simbolo" : "Rf",
+        "nombre" : "Rutherfordio",
+        "valencia" : [],
+        "masa_atomica" : 257,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 105,
+        "simbolo" : "Db",
+        "nombre" : "Dubnio",
+        "valencia" : [],
+        "masa_atomica" : 260,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 106,
+        "simbolo" : "Sg",
+        "nombre" : "Seaborgio",
+        "valencia" : [],
+        "masa_atomica" : 259,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 107,
+        "simbolo" : "Bh",
+        "nombre" : "Bohrio",
+        "valencia" : [],
+        "masa_atomica" : 262,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 108,
+        "simbolo" : "Hs",
+        "nombre" : "Hassio",
+        "valencia" : [],
+        "masa_atomica" : 265,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 109,
+        "simbolo" : "Mt",
+        "nombre" : "Meitnerio",
+        "valencia" : [],
+        "masa_atomica" : 266,
+        "categoria" : ["mtransicion","esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 110,
+        "simbolo" : "Uun",
+        "nombre" : "Ununnilio",
+        "valencia" : [],
+        "masa_atomica" : 269,
+        "categoria" : ["esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 111,
+        "simbolo" : "Uuu",
+        "nombre" : "Unununio",
+        "valencia" : [],
+        "masa_atomica" : 272,
+        "categoria" : ["esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 112,
+        "simbolo" : "Uub",
+        "nombre" : "Ununbio",
+        "valencia" : [],
+        "masa_atomica" : 277,
+        "categoria" : ["esinteticos","eradiactivos"]
+    },
+    {
+        "numero_atomico" : 114,
+        "simbolo" : "Uuq",
+        "nombre" : "Ununcuadio",
+        "valencia" : [],
+        "masa_atomica" : 285,
+        "categoria" : ["esinteticos"]
+    },
+    {
+        "numero_atomico" : 116,
+        "simbolo" : "Uuh",
+        "nombre" : "Ununhexio",
+        "valencia" : [],
+        "masa_atomica" : 289,
+        "categoria" : ["esinteticos"]
+    },
+    {
+        "numero_atomico" : 118,
+        "simbolo" : "Uuo",
+        "nombre" : "Ununactio",
+        "valencia" : [],
+        "masa_atomica" : 293,
+        "categoria" : ["esinteticos"]
+    }
+]
